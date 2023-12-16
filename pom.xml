@@ -39,7 +39,7 @@
 
 		<!-- 可使用 libs 目录的 apijson-orm.jar 来替代，两种方式二选一 -->
 		<dependency>
-			<groupId>com.github.csx-bill</groupId>
+			<groupId>com.github.Tencent</groupId>
 			<artifactId>APIJSON</artifactId>
 			<version>6.3.0</version>
 		</dependency>
